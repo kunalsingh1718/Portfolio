@@ -16,7 +16,7 @@ Websites:
 
 */
 
-export const projectsData = [
+/* export const projectsData = [
   {
     id: 1,
     name: "EcoTracker",
@@ -88,6 +88,7 @@ export const projectsData = [
     demoLink: "https://mindfulmoments.example.com",
   },
 ];
+*/
 
 export const BtnList = [
   { label: "Home", link: "/", icon: "home", newTab: false },
@@ -96,19 +97,19 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/kunalsingh1718",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/kunal-singh-8369b32bb/",
     icon: "linkedin",
     newTab: true,
   },
   {
     label: "X",
-    link: "https://www.x.com/code_bucks",
+    link: "https://www.x.com/",
     icon: "twitter",
     newTab: true,
   },
